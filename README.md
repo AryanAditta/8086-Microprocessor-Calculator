@@ -21,7 +21,7 @@ The project demonstrates low-level arithmetic control, keyboard input, branching
 
 ## Repository Contents
 
-- [`Microprocessor Project code.asm`](Microprocessor%20Project%20Project%20code.asm) — calculator source code.
+- [`Microprocessor Project code.asm`](Microprocessor%20Project%20code.asm) — calculator source code.
 - [`MicroprocessorProject.docx`](MicroprocessorProject.docx) — project documentation.
 
 ## Running the Project
