@@ -21,7 +21,7 @@ The project demonstrates low-level arithmetic control, keyboard input, branching
 
 ## Repository Contents
 
-- [`Microprocessor Project code.asm`](Microprocessor%20Project%20code.asm) — calculator source code.
+- [`Microprocessor Project code.asm`](Microprocessor%20Project%20Project%20code.asm) — calculator source code.
 - [`MicroprocessorProject.docx`](MicroprocessorProject.docx) — project documentation.
 
 ## Running the Project
@@ -35,5 +35,3 @@ The project demonstrates low-level arithmetic control, keyboard input, branching
 `8086` · `Assembly Language` · `Microprocessor Systems` · `Low-Level I/O` · `Arithmetic Control`
 
 This project is part of my undergraduate digital-hardware and microprocessor background.
-
-[GitHub Profile](https://github.com/AryanAditta) · [EDA Academic Profile](https://aryanaditta.github.io/eda-academic/)
